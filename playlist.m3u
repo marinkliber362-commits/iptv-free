@@ -26,6 +26,10 @@ http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/141634.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTO CARTOONITO HD"
 
+#EXTINF:-1 tvg-id="" tvg-name="musica tv
+
+https://www.youtube.com/watch?app=desktop&v=b1EfRn5zkmU&list=RDb1EfRn5zkmU&start_radio=1
+
 tvg-logo="https://static.wixstatic.com/media/25b08b_769a9630f3444d17867641256c284fe 7~mv2.png/v1/1111/w_504, h 504, al c, usm 0.66_1.00_0.01/25b98b_769a9030f3444017867641256c284f07~mv2.png " group-title="INFANTILES", DIRECTO CARTOONITO HD http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/323873.ts
 
 #EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="DIRECTO DISCOVERY KIDS FHD" tvg-logo="https://1.bp.blogspot.com/-A15vnBb1Afk/X-xk7v3KG3I/AAAAAAAA6 A/wj8EHhoHXVWZ3fgwSbCUq_0ex0EupHjLQCLCBGASYHQ/s1080/dki.png" group-title="INFANTILES, DIRECTO DISCOVERY KIDS FHD"
