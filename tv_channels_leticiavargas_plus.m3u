@@ -65,7 +65,7 @@ https://23.137.84.107:8443/leticiavargas/1469LV3854@/43637
 https://23.137.84.107:8443/leticiavargas/1469LV3854@/1155889
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - ESPN 3 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="• LATINO DEPORTES •",LD - ESPN 3 SUR HD
 https://23.137.84.107:8443/leticiavargas/1469LV3854@/1155890
-#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN 3 SUR SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="• LATINO DEPORTES •",LD - ESPN 3 SUR SD
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - ESPN 3 SUR SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="• LATINO DEPORTES •",LD - ESPN 3 SUR SD
 https://23.137.84.107:8443/leticiavargas/1469LV3854@/43639
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - ESPN 4 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="• LATINO DEPORTES •",LD - ESPN 4 SUR HD
 https://23.137.84.107:8443/leticiavargas/1469LV3854@/1118360
@@ -8135,8 +8135,6 @@ https://23.137.84.107:8443/movie/leticiavargas/1469LV3854@/1096208.mkv
 https://23.137.84.107:8443/movie/leticiavargas/1469LV3854@/1096209.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un ladrón honesto - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Kee2stO6c2JLgH2Q2ek67H7QTB.jpg" group-title="VOD - CRIMEN",Un ladrón honesto - 2020
 https://23.137.84.107:8443/movie/leticiavargas/1469LV3854@/1096210.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Terapia sexual - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEeDgvtvuTAoEoQbKl2VYWlTxnG.jpg" group-title="VOD - DRAMA",Terapia sexual - 2020
-https://23.137.84.107:8443/movie/leticiavargas/1469LV3854@/1096211.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Horse Camp: A Love Tail (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7l1KjWs1mrLlDWNBdhCHVOej0eS.jpg" group-title="VOD - AVENTURA",Horse Camp: A Love Tail (2020)
 https://23.137.84.107:8443/movie/leticiavargas/1469LV3854@/1096212.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Host (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7dZpJDORYs5c56dydbrLFkEXpE.jpg" group-title="VOD - TERROR",Host (2020)
@@ -24455,6 +24453,12 @@ https://23.137.84.107:8443/leticiavargas/1469LV3854@/1311560
 https://23.137.84.107:8443/leticiavargas/1469LV3854@/1311561
 #EXTINF:-1 tvg-id="" tvg-name="NCAA Volleyball | 11:30 AM | Marist vs. Lafayette" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/volleyball-men.png" group-title="•  EVENTOS ESPECIALES  Y DISNEY+ •",NCAA Volleyball | 11:30 AM | Marist vs. Lafayette
 https://23.137.84.107:8443/leticiavargas/1469LV3854@/1311562
+#EXTINF:-1 tvg-id="" tvg-name="Coyote vs. Acme (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Coyote vs. Acme (2026)
+https://23.137.84.107:8443/movie/leticiavargas/1469LV3854@/1311563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Barreda (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJJ0Kh6x39jjFN02A0fLhLFlouL.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Barreda (2026)
+https://23.137.84.107:8443/movie/leticiavargas/1469LV3854@/1311564.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Susurran tu nombre (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Susurran tu nombre (2026)
+https://23.137.84.107:8443/movie/leticiavargas/1469LV3854@/1311565.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El escritor fantasma (Ghostwriter) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wl9zxXVvTo5w0yvsfKZVapCWXo9.jpg" group-title="SERIES - CIENCIA FICCION",El escritor fantasma (Ghostwriter) S01 E01
 https://23.137.84.107:8443/series/leticiavargas/1469LV3854@/1150254.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El escritor fantasma (Ghostwriter) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqMPvnvdEM1P5134w6r9mt5IOr4.jpg" group-title="SERIES - CIENCIA FICCION",El escritor fantasma (Ghostwriter) S01 E02
@@ -66561,6 +66565,8 @@ https://23.137.84.107:8443/series/leticiavargas/1469LV3854@/1308852.mkv
 https://23.137.84.107:8443/series/leticiavargas/1469LV3854@/1309668.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Silo S03 E08" tvg-logo="https://image.tmdb.org/t/p/w300/qZiRIiFbjCSttNe3uNHsi6hoxWV.jpg" group-title="SERIES - CIENCIA FICCION",Silo S03 E08
 https://23.137.84.107:8443/series/leticiavargas/1469LV3854@/1310660.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Silo S03 E09" tvg-logo="https://image.tmdb.org/t/p/w300/fl5tbMRYYQ6eWEuU5E5wN3qRXrK.jpg" group-title="SERIES - CIENCIA FICCION",Silo S03 E09
+https://23.137.84.107:8443/series/leticiavargas/1469LV3854@/1311567.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Celebrity S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yJbSysiZ8z6e9nrYymbTaxp8nG.jpg" group-title="SERIES - DRAMA",Celebrity S01 E01
 https://23.137.84.107:8443/series/leticiavargas/1469LV3854@/1167474.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Celebrity S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gA5K6CdxwwYyczyHuqnyrXGSXGz.jpg" group-title="SERIES - DRAMA",Celebrity S01 E02
@@ -97595,6 +97601,8 @@ https://23.137.84.107:8443/series/leticiavargas/1469LV3854@/1308851.mkv
 https://23.137.84.107:8443/series/leticiavargas/1469LV3854@/1309667.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Stuart no consigue salvar el Universo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/eBYa55pGjM59fv659DV2i8U1KFr.jpg" group-title="SERIES - COMEDIA",Stuart no consigue salvar el Universo S01 E05
 https://23.137.84.107:8443/series/leticiavargas/1469LV3854@/1310659.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stuart no consigue salvar el Universo S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/hzrUSAQzCcD9nJXkpYNfNs3jjtF.jpg" group-title="SERIES - COMEDIA",Stuart no consigue salvar el Universo S01 E06
+https://23.137.84.107:8443/series/leticiavargas/1469LV3854@/1311566.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vivir sin permiso S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58Z3KlTeOe1rHwa6x3xSRRVTIXk.jpg" group-title="SERIES - CRIMEN",Vivir sin permiso S01 E01
 https://23.137.84.107:8443/series/leticiavargas/1469LV3854@/1307496.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vivir sin permiso S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pchyG6WxcxYZZvQyh5XwoDfW7A.jpg" group-title="SERIES - CRIMEN",Vivir sin permiso S01 E02
