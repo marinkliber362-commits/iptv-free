@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="http://23.137.84.107:59000/xmltv.php?username=leticiavargas&password=1469LV3854%40" refresh="600"
+#EXTINF:-1 tvg-id="" tvg-name="Xtream Generator" tvg-logo="" group-title="IPTV",Xtream Generator — leticiavargas
+http://23.137.84.107:59000/get.php?username=leticiavargas&password=1469LV3854%40&type=m3u_plus&output=ts
