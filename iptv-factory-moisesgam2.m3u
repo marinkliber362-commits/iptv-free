@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="http://ak-47scan.dyndns.tv:25461/xmltv.php?username=moisesgam2&password=AdyzyNjL8xms" refresh="600"
+#EXTINF:-1 tvg-id="" tvg-name="IPTV Factory" tvg-logo="" group-title="IPTV",IPTV Factory — moisesgam2
+http://ak-47scan.dyndns.tv:25461/get.php?username=moisesgam2&password=AdyzyNjL8xms&type=m3u_plus&output=ts
